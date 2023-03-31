@@ -45,4 +45,4 @@ Plancer - это удобный менеджер задач, который по
 ![изображение](https://user-images.githubusercontent.com/79224183/229195270-499f4b1a-7b87-4967-b401-a71f3fe206a5.png)
 
 
-
+https://www.figma.com/file/6mRYCjjAfXxkqfkmiWWRNp/Untitled?node-id=11%3A53&t=0oCCW5VPmOaMYcak-1
