@@ -38,11 +38,12 @@ Plancer - это удобный менеджер задач, который по
 
 
 ## Главная страница
-![изображение](https://user-images.githubusercontent.com/79224183/229195001-8a6b2d32-64d4-49cf-a980-0e7748f516f8.png)
+![image](https://github.com/CaptainAlekor/ITiROD/assets/79224183/fe4cb888-180f-48ad-8de3-8b1f7828cbc7)
 ## Страница регистрации
-![изображение](https://user-images.githubusercontent.com/79224183/229195144-696b1f97-14bf-41b8-816d-c7ba5dd3b177.png)
+![image](https://github.com/CaptainAlekor/ITiROD/assets/79224183/e16cd67f-ed3b-479d-9dc2-f4afb6e854e5)
 ## Статистика пользователя
-![изображение](https://user-images.githubusercontent.com/79224183/229195270-499f4b1a-7b87-4967-b401-a71f3fe206a5.png)
+![image](https://github.com/CaptainAlekor/ITiROD/assets/79224183/d1ed82f1-1c76-4708-96b3-483ade787755)
+
 
 
 https://www.figma.com/file/6mRYCjjAfXxkqfkmiWWRNp/Untitled?node-id=11%3A53&t=0oCCW5VPmOaMYcak-1
